@@ -40,3 +40,5 @@ gradle-app.setting
 
 ### Gradle Patch ###
 **/build/
+
+!toolbox.zip
