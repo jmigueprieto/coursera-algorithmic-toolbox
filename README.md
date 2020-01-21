@@ -1,5 +1,7 @@
 # Algorithmic Toolbox
 
+[![Build Status](https://travis-ci.com/jmigueprieto/coursera-algorithmic-toolbox.svg?branch=master)](https://travis-ci.com/jmigueprieto/coursera-algorithmic-toolbox)
+
 This repo contains a gradle project with my solutions to the programming assignments of [Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox).
 
 This MOOC is really great to learn or review basic algorithmic techniques and test your problem solving skills.
